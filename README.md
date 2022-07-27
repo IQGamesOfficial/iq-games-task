@@ -1,17 +1,1 @@
-- [ ] Whitepaper
-- [ ] Pitch Deck
-- [ ] Website
-  - [ ] Landing
-  - [ ] Roadmap
-  - [ ] Privacy Policy
-  - [ ] Terms and Conditions
-  - [ ] Minting Page
-- [ ] Smart Contract
-  - [ ] IQ Games (Main game logic)
-  - [ ] IQ Points (ERC20 token)
-  - [ ] Avatars (ERC721 token)
-  - [ ] Mentorship
-- [ ] API
-  - [ ] Database
-  - [ ] CRUD Endpoints
-  - [ ] Websocket
+Tasks: https://github.com/cwsoldev/iq-games-task/issues/1
